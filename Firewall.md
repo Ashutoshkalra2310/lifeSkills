@@ -29,3 +29,7 @@ Firewalls employ various techniques to control and secure network traffic:
 - **Logging and Monitoring:** Firewalls generate logs to record information about network traffic, security events, and policy violations. Monitoring these logs helps administrators analyze network activity, detect anomalies, and respond to security incidents promptly.
 
 In conclusion, firewalls play a crucial role in safeguarding networks against cyber threats by controlling and securing the flow of traffic. Understanding firewall basics is essential for building robust network security architectures and protecting sensitive information from unauthorized access and attacks.
+References:
+* [What is a Firewall? - Cisco](https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html)
+* [Understanding Firewalls - Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/firewalls/understanding-firewalls)
+* [The Basics of Firewalls - DigitalOcean](https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands)
